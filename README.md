@@ -1,4 +1,4 @@
 ### Back-end roadmap
 
-![](C:\Users\mingy\Pictures\Saved Pictures\back_end_roadmap.png)
+<img src="C:\Users\mingy\Pictures\Saved Pictures\back_end_roadmap.png" style="zoom:50%;" />
 
